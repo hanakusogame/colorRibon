@@ -1,6 +1,6 @@
-# ロットロット
+# カラーリボン
 
-**ロットロット**はAcashicEngineとTypeScriptにより作られたニコニコ生放送向けゲームです。
+**カラーリボン**はAcashicEngineとTypeScriptにより作られたニコニコ生放送向けゲームです。
 
 ## 利用方法
 
